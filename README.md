@@ -9,3 +9,4 @@ I decided to join the WSL crew and so my setup has become quite customized. Also
 ## Organization
 - **c**, my C:\ drive
 - **wsl**, my Windows Subsystem for Linux
+    - Ubuntu
